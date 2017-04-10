@@ -1,0 +1,15 @@
+{
+  "name": "ptrpt-facebook",
+  "version": "0.1.17",
+  "description": "Allows to redirect users to facebook login page  and to post on their behalf (more yet to come) ",
+  "main": "ptrpt-facebook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "facebook",
+    "facebook-graph-api"
+  ],
+  "author": "ptrpt",
+  "license": "ISC"
+}
